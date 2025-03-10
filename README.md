@@ -15,11 +15,11 @@
 ---
 # Link
 
-동아대학교 홈페이지는 [여기로]{
-https://www.donga.ac.kr}
+동아대학교 홈페이지는 [여기로](
+https://www.donga.ac.kr)
 
-My github page is available [here]{
-https://github.com/p-jh0}
+My github page is available [here](
+https://github.com/p-jh0)
 ---
 ![alt text](https://wwwold.donga.ac.kr/Web2017/Sub/001004001_2021_symbol.jpg "donga logo")
 
