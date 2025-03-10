@@ -43,4 +43,4 @@ println("Hello World!");
 
 ```
 
-$ E=mc^2 $
+$$ E =mc^2 $$
